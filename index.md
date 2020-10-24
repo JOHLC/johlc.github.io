@@ -1,2 +1,3 @@
 ## Welcome to JOHLC
-![useful image]({{ site.url }}/assets/background.jpg)
+https://johlc.github.io
+![useful image](https://johlc.github.io/assets/background.jpg)
