@@ -1,3 +1,4 @@
 ## Welcome to JOHLC
-https://johlc.github.io
-![useful image](https://johlc.github.io/assets/background.jpg)
+I am the creator of the Transparent Blue theme for Home Assistant
+
+https://github.com/JOHLC/transparentblue
